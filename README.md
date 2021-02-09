@@ -4,9 +4,9 @@ Optimizing the image performance with srcset, width, height and loading image at
 
 **Author and Repo maintainer:** Swapna Sama
 
-**GH repo :** []()
+**GH repo :** [https://github.com/swappnasama/cpnt201-a2.git](https://github.com/swappnasama/cpnt201-a2.git)
 
-**GH Pages site :** []()
+**GH Pages site :** [ https://swappnasama.github.io/cpnt201-a2/]( https://swappnasama.github.io/cpnt201-a2/)
 
 ## Attributions :
 
