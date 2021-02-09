@@ -1,0 +1,14 @@
+main{
+  width: 90vw;
+  max-width: 1920px;
+  margin: auto;
+  
+  text-align: center;
+}
+
+img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 3rem auto;
+}
